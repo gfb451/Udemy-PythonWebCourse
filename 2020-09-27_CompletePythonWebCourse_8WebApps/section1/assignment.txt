@@ -1,0 +1,6 @@
+Create a program that:
+
+1. Create a variable that holds a "magic number" between 0 and 10
+2. Tell the user to pick a number between 0 and 10
+3. If the user picks the "magic number", tell them they've won
+4. Else, tell them to run the program again
